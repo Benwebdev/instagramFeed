@@ -1,5 +1,7 @@
 # instagramFeed 
 
+npm install @benline/instagramFeed 
+
 A simple react instagram feed
 
 - token - Graphql token 
